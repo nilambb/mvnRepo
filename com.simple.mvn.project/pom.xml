@@ -4,4 +4,10 @@
   <artifactId>com.simple.mvn.project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>test mvn git jenkin</name>
+  
+  <properties>
+    <maven.compiler.source>1.10</maven.compiler.source>
+    <maven.compiler.target>1.10</maven.compiler.target>
+  </properties>
+  
 </project>
